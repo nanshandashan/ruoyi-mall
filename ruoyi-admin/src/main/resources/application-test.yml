@@ -29,7 +29,7 @@ spring:
         # 数据库索引
         database: 0
         # 密码
-        password: 123456
+        password: 6ac7b051e8e1
 ruoyi:
     # 文件路径 示例（ Windows配置C:/ruoyi/uploadPath，Linux配置 /home/ruoyi/uploadPath）
     profile: C:/ruoyi/uploadPath
